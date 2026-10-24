@@ -1,5 +1,13 @@
-## Hi there 👋
+### About Me
 
+Hi, I'm **Mohammad Safeer**! 👋
+
+I'm a developer focused on **Full-Stack Web Development, Artificial Intelligence, and DevOps**. I enjoy taking ideas from scratch to production—whether that means architecting offline-first Progressive Web Apps, building fast backend APIs, or experimenting with computer vision and machine learning models.
+
+- 💻 **Tech Stack:** Python, JavaScript, React, Next.js, FastAPI, Flask, Tailwind CSS
+- 🧠 **AI & ML:** TensorFlow, Keras, OpenCV, Deep Learning
+- ⚙️ **Workflow & DevOps:** Git, GitHub Actions, Docker, Linux
+- 🎯 **Goals:** Constantly improving system architecture, writing clean code, and contributing to open-source solutions.
 <!--
 **37191Safeer/37191Safeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
